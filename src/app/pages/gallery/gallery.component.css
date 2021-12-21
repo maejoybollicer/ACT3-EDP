@@ -1,0 +1,36 @@
+.body-content{
+    width:100%;
+    height: 100vh;
+    display:grid;
+    align-items: center;
+    justify-items: center;
+    background:linear-gradient(white,green);
+}
+
+
+mat-grid-list{
+    width:90%;
+}
+
+.img_1{
+    background-image: url("../../../assets/images/Maejoy.jpeg");
+    width:100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.img_2{
+    background-image: url("../../../assets/images/pic1.jpeg");
+    width:100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.img_3{
+    background-image: url("../../../assets/images/pic2.jpeg");
+    width:100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: 50% 100%;
+    background-color: rgb(20, 216, 141);
+}
